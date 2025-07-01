@@ -1,4 +1,4 @@
-## Md. Mahir Asef -- TypeScript Backend Developer | Student
+## Md. Mahir Asef - TypeScript Backend Developer | Student
 
 <!--
 **Md-Mahir-Asef/Md-Mahir-Asef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
