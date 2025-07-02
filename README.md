@@ -7,12 +7,11 @@ I'm a self-taught TypeScript backend developer, currently a student, focused on 
 ## 🧠 What I Know
 
 - **Languages**: TypeScript, JavaScript, 
-- **Backend**: Node.js, Express, REST API design, JWT
+- **Backend**: Node.js, Express, REST API design, User Authentication and Authorization (with JWT and cookies), Input Validation (using Zod), Server-side Logging (with Winston)
 - **Database**: PostgreSQL, Prisma ORM, schema design, relational modeling  
-- **Frontend (Basic)**: React 
-- **Libraries**: Zod (Validation), Winston (Logging) 
+- **Frontend (Basic)**: React, Tailwindcss
 - **Tools & Workflow**: Git, GitHub, Postman, VS Code, Docker and Docker Compose (dev environments), WSL (Ubuntu)  
-- **Fundamentals**: HTTP, JSON, MVC pattern, middleware, environment configuration  
+- **Fundamentals**: HTTP, JSON, MVC pattern, Containerization, Environment Configuration  
 
 ---
 
