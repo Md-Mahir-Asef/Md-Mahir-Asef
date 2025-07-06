@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md. Mahir Asef
 
-I'm a self-taught TypeScript backend developer, currently a student, focused on building a strong foundation in real-world backend development. My goal is to write clean, production-ready code and grow into a high-quality backend engineer.
+I'm a backend-focused developer building intelligent systems using TypeScript, Python, and Generative AI tools. I'm currently a student, self-taught, and laser-focused on becoming a high-quality backend + AI integration engineer for real-world systems.
 
 ---
 
@@ -17,21 +17,25 @@ I'm a self-taught TypeScript backend developer, currently a student, focused on 
 
 ## 📚 What I'm Learning
 
+- **Python for GenAI & Microservices**: FastAPI, Pydantic, requests, microservice orchestration.
+- **LLM Workflows**: LangChain, prompt chaining, vector DBs (FAISS/Chroma), embedding pipelines.
 - **Computer Science**: Discrete Mathematics, System Design, Design Patterns, Data Structures  
 - **Databases**: Advanced SQL Concepts (indexes, optimization, transactions)
 - **Security**: Web security best practices (auth, validation, sanitization)  
 - **Testing**: Unit, integration, and API testing workflows  
 - **DevOps**: Docker (production readiness), CI/CD basics, Advanced Linux concepts  
 - **Real-Time Systems**: WebSockets, Socket.IO, Event-Driven Architecture
-- **Generative AI**: Building intelligent backend features using OpenAI API, LangChain, and prompt engineering basics
 - **Caching**: Redis
 
 ---
 
-## 🎯 Long-Term Goal
+🚀 My Goal
+To become a backend + GenAI integration engineer, specializing in building intelligent APIs and scalable AI infrastructure using TypeScript and Python.
 
-To become a backend-focused engineer at a fast-moving, well-funded remote startup (EU, US, or AU), capable of building scalable, clean, and maintainable systems.
+I aim to work with remote, high-growth startups (US, EU, or AU), or contribute to open source GenAI tooling (LangChain, vector DBs, orchestration frameworks).
+
+I'm committed to production-grade engineering, clean system architecture, and shipping real-world, AI-powered backend solutions.
 
 ---
-
-I'm committed to real engineering practices. If you're working on open source or hiring for TypeScript backend roles, feel free to connect.
+📢 Let's Collaborate
+I'm committed to real engineering practices. If you're working on GenAI, backend infrastructure, or want to build AI-integrated systems, feel free to connect or collaborate.
