@@ -29,7 +29,7 @@ I'm a backend-focused developer building intelligent systems using TypeScript, P
 
 ---
 
-🚀 My Goal
+## 🚀 My Goal
 To become a backend + GenAI integration engineer, specializing in building intelligent APIs and scalable AI infrastructure using TypeScript and Python.
 
 I aim to work with remote, high-growth startups (US, EU, or AU), or contribute to open source GenAI tooling (LangChain, vector DBs, orchestration frameworks).
@@ -37,5 +37,5 @@ I aim to work with remote, high-growth startups (US, EU, or AU), or contribute t
 I'm committed to production-grade engineering, clean system architecture, and shipping real-world, AI-powered backend solutions.
 
 ---
-📢 Let's Collaborate
+##  📢 Let's Collaborate
 I'm committed to real engineering practices. If you're working on GenAI, backend infrastructure, or want to build AI-integrated systems, feel free to connect or collaborate.
