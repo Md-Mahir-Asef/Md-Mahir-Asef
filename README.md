@@ -36,3 +36,11 @@ I focus on **production-grade engineering, clean architecture, and shipping real
 
 Working on backend systems or scalable APIs? Connect with me or explore my projects—let's build production-ready solutions together.
 
+---
+
+## 🔗 Links
+
+- 💼 LinkedIn: [linkedin.com/in/md-mahir-asef-89bb7b3a7/](https://www.linkedin.com/in/md-mahir-asef-89bb7b3a7/)
+- 🧩 LeetCode: [leetcode.com/u/Md-Mahir-Asef/](https://leetcode.com/u/Md-Mahir-Asef/)
+- 📧    Email: [mdmahirasef.dev@gmail.com](mdmahirasef.dev@gmail.com)
+
