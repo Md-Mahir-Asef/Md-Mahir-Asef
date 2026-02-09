@@ -40,7 +40,7 @@ Working on backend systems or scalable APIs? Connect with me or explore my proje
 
 ## 🔗 Links
 
-- 💼 LinkedIn: [linkedin.com/in/md-mahir-asef-89bb7b3a7/](https://www.linkedin.com/in/md-mahir-asef-89bb7b3a7/)
+- 💼 LinkedIn: [linkedin.com/in/md-mahir-asef-dev/](https://www.linkedin.com/in/md-mahir-asef-dev/)
 - 🧩 LeetCode: [leetcode.com/u/Md-Mahir-Asef/](https://leetcode.com/u/Md-Mahir-Asef/)
 - 📧    Email: [mdmahirasef.dev@gmail.com](mdmahirasef.dev@gmail.com)
 
