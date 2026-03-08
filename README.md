@@ -40,34 +40,50 @@ Unit Testing
 
 # 🚀 Projects
 
-I build practical full-stack applications that simulate real production environments.
+### E-commerce Web Application
 
-Key focus areas:
+Full-stack e-commerce platform with secure authentication, role-based access control, and scalable order processing.
 
-• Secure authentication systems
-• Scalable REST APIs
-• Clean architecture and modular backend design
-• Full-stack applications with React + Node.js
-• Database modeling and performance optimization
+**Tech:** TypeScript • Node.js • Express • PostgreSQL • Prisma • React • Docker
 
-Explore the repositories below to see implementation details.
+* Built a full-stack e-commerce system supporting product catalog browsing, user authentication, and end-to-end order workflows.
+* Designed REST APIs with **JWT-based authentication** to secure sessions and protect application resources.
+* Implemented **Role-Based Access Control (Admin, User, Visitor)** to enforce authorization boundaries across the platform.
+* Optimized database queries using **pagination and efficient Prisma query patterns**, improving API scalability.
+* Containerized backend, frontend, and database services with **Docker**, enabling consistent development and deployment environments.
 
----
-
-# 🧠 Current Focus
-
-Improving my ability to build **scalable production systems** and **deliver complete full-stack products**.
-
-Currently working on:
-
-• Advanced system design concepts
-• Production-ready Docker workflows
-• Realtime systems (WebSockets)
-• Performance optimization and caching strategies
+Repository:
+[https://github.com/Md-Mahir-Asef/e-commerce](https://github.com/Md-Mahir-Asef/e-commerce)
 
 ---
 
-# 🎯 Professional Focus
+### KV Link Manager — Browser Extension
+
+Chrome extension that helps users store and manage links as key-value pairs with automatic page detection.
+
+**Tech:** TypeScript • React • Vite • Chrome Extension APIs
+
+* Built a browser extension that allows users to **create, organize, and manage links directly from the browser**.
+* Implemented automatic **tab title and URL detection**, reducing manual input.
+* Performed CRUD operations using **browser local storage** to persist user data without requiring a backend.
+* Designed a lightweight and intuitive UI to make link navigation and organization efficient.
+
+Repository:
+[https://github.com/Md-Mahir-Asef/kv-link-manager-browser-extension](https://github.com/Md-Mahir-Asef/kv-link-manager-browser-extension)
+
+---
+
+### OpsDash (In Progress)
+
+Full-stack developer dashboard focused on monitoring application metrics, logs, and system health.
+
+**Tech:** React • Node.js • PostgreSQL • Docker
+
+Currently building a platform that helps developers **observe and manage operational data for their applications**, focusing on monitoring workflows, structured logging, and system visibility.
+
+---
+
+# 🎯 Goal
 
 I’m looking for opportunities as a **Junior Full-Stack Engineer** where I can contribute to real products, collaborate with experienced engineers, and continuously improve my system design and engineering skills.
 
