@@ -81,6 +81,9 @@ Full-stack developer dashboard focused on monitoring application metrics, logs, 
 
 Currently building a platform that helps developers **observe and manage operational data for their applications**, focusing on monitoring workflows, structured logging, and system visibility.
 
+Repository:
+[https://github.com/Md-Mahir-Asef/opsdash](https://github.com/Md-Mahir-Asef/opsdash)
+
 ---
 
 # 🎯 Goal
