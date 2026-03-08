@@ -1,46 +1,85 @@
 # 👋 Hi, I'm Md. Mahir Asef
 
-Backend-focused engineer specialising in **TypeScript** and building **scalable, production-grade systems**. I design and ship backend solutions with clean architecture, secure workflows, and high-performance databases.
+**Junior Full-Stack Engineer** focused on building reliable web applications using **TypeScript, React, Node.js, and PostgreSQL**.
+
+I design and ship full-stack systems with clean architecture, secure APIs, and performant databases. My work focuses on **production-ready backend services paired with modern frontend interfaces.**
 
 ---
 
-## 🧠 Core Skills
+# 🧰 Tech Stack
 
-- **Languages:** TypeScript, JavaScript  
-- **Backend:** Node.js, Express, REST API design, JWT-based Auth, Role-Based Access Control, Input Validation (Zod), Server Logging (Winston)  
-- **Databases:** PostgreSQL, Prisma ORM, relational modelling, schema design, indexing & query optimisation  
-- **Frontend (Basic):** React, Tailwind CSS  
-- **Dev Tools & Workflow:** Git, GitHub, Postman, VS Code, Docker & Docker Compose, WSL (Ubuntu), CI/CD basics  
-- **Fundamentals:** HTTP, JSON, MVC, containerization, environment configuration
-- **Testing:** Unit Testing 
+### Languages
 
----
+TypeScript • JavaScript
 
-## 🚀 Currently Learning & Building
+### Frontend
 
-- **System Design & CS Fundamentals:** Data structures, discrete mathematics, design patterns, microservice architecture  
-- **Security & Testing:** Web security best practices, integration testing, API testing  
-- **DevOps & Realtime Systems:** Docker production readiness, WebSockets, Socket.IO, Redis caching  
+React • Vite • Tailwind CSS • REST API Integration
 
----
+### Backend
 
-## 🎯 Career Goal
+Node.js • Express • REST API Design • Authentication (JWT) • Role-Based Access Control • Input Validation (Zod) • Server-Side Logging (Winston)
 
-I aim to **deliver high-quality backend solutions**, powering scalable APIs and robust systems. Seeking opportunities with **remote, high-growth startups** or contributing to **open-source backend tooling**.  
+### Databases
 
-I focus on **production-grade engineering, clean architecture, and shipping real-world systems**.
+PostgreSQL • Prisma ORM • Relational Data Modeling • Query Optimization • Indexing
 
----
+### Dev Tools
 
-## 📢 Let’s Collaborate
+Git • GitHub • Docker • Docker Compose • Postman • VS Code • WSL (Ubuntu)
 
-Working on backend systems or scalable APIs? Connect with me or explore my projects—let's build production-ready solutions together.
+### Engineering Fundamentals
+
+HTTP • MVC Architecture • API Security • Logging • Environment Configuration
+
+### Testing
+
+Unit Testing
 
 ---
 
-## 🔗 Links
+# 🚀 Projects
 
-- 💼 LinkedIn: [linkedin.com/in/md-mahir-asef-dev/](https://www.linkedin.com/in/md-mahir-asef-dev/)
-- 🧩 LeetCode: [leetcode.com/u/Md-Mahir-Asef/](https://leetcode.com/u/Md-Mahir-Asef/)
-- 📧    Email: [mdmahirasef.dev@gmail.com](mdmahirasef.dev@gmail.com)
+I build practical full-stack applications that simulate real production environments.
 
+Key focus areas:
+
+• Secure authentication systems
+• Scalable REST APIs
+• Clean architecture and modular backend design
+• Full-stack applications with React + Node.js
+• Database modeling and performance optimization
+
+Explore the repositories below to see implementation details.
+
+---
+
+# 🧠 Current Focus
+
+Improving my ability to build **scalable production systems** and **deliver complete full-stack products**.
+
+Currently working on:
+
+• Advanced system design concepts
+• Production-ready Docker workflows
+• Realtime systems (WebSockets)
+• Performance optimization and caching strategies
+
+---
+
+# 🎯 Professional Focus
+
+I’m looking for opportunities as a **Junior Full-Stack Engineer** where I can contribute to real products, collaborate with experienced engineers, and continuously improve my system design and engineering skills.
+
+---
+
+# 🔗 Links
+
+💼 LinkedIn
+[https://linkedin.com/in/md-mahir-asef-dev](https://linkedin.com/in/md-mahir-asef-dev)
+
+📧 Email
+[mdmahirasef.dev@gmail.com](mailto:mdmahirasef.dev@gmail.com)
+
+🧩 LeetCode
+[https://leetcode.com/u/Md-Mahir-Asef/](https://leetcode.com/u/Md-Mahir-Asef/)
