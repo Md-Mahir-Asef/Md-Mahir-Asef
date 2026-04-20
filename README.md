@@ -36,6 +36,10 @@ HTTP • MVC Architecture • API Security • Logging • Environment Configura
 
 Unit Testing
 
+### Deployment
+
+Vercel • Netlify • Railway • Render • Supabase
+
 ---
 
 # 🚀 Projects
