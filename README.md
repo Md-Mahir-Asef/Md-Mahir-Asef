@@ -44,7 +44,7 @@ Vercel • Netlify • Railway • Render • Supabase
 
 # 🚀 Projects
 
-### E-commerce Web Application
+### [Robobazar](https://robobazar.netlify.app/)
 
 Full-stack e-commerce platform with secure authentication, role-based access control, and scalable order processing.
 
@@ -57,7 +57,10 @@ Full-stack e-commerce platform with secure authentication, role-based access con
 * Containerized backend, frontend, and database services with **Docker**, enabling consistent development and deployment environments.
 
 Repository:
-[https://github.com/Md-Mahir-Asef/e-commerce](https://github.com/Md-Mahir-Asef/e-commerce)
+[https://github.com/Md-Mahir-Asef/robobazar](https://github.com/Md-Mahir-Asef/robobazar)
+
+Live Demo:
+[https://robobazar.netlify.app/](https://robobazar.netlify.app/)
 
 ---
 
