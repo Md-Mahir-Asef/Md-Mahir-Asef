@@ -10,11 +10,11 @@ I design and ship full-stack systems with clean architecture, secure APIs, and p
 
 ### Languages
 
-TypeScript • JavaScript
+TypeScript • JavaScript • Python
 
 ### Frontend
 
-React • Vite • Tailwind CSS • REST API Integration
+React • Next.js • React Router DOM • Vite • Tailwind CSS • REST API Integration
 
 ### Backend
 
@@ -22,7 +22,7 @@ Node.js • Express • REST API Design • Authentication (JWT) • Role-Based 
 
 ### Databases
 
-PostgreSQL • Prisma ORM • Relational Data Modeling • Query Optimization • Indexing
+PostgreSQL • MySQL • MongoDB • Prisma ORM • Supabase • Relational Data Modeling • Query Optimization • Indexing
 
 ### Dev Tools
 
@@ -49,7 +49,7 @@ Full-stack e-commerce platform with secure authentication, role-based access con
 * Built a full-stack e-commerce system supporting product catalog browsing, user authentication, and end-to-end order workflows.
 * Designed REST APIs with **JWT-based authentication** to secure sessions and protect application resources.
 * Implemented **Role-Based Access Control (Admin, User, Visitor)** to enforce authorization boundaries across the platform.
-* Optimized database queries using **pagination and efficient Prisma query patterns**, improving API scalability.
+* Optimised database queries using **pagination and efficient Prisma query patterns**, improving API scalability.
 * Containerized backend, frontend, and database services with **Docker**, enabling consistent development and deployment environments.
 
 Repository:
