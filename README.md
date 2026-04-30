@@ -44,7 +44,7 @@ Vercel • Netlify • Railway • Render • Supabase
 
 # 🚀 Projects
 
-### [Robobazar](https://robobazar.netlify.app/)
+### [Robobazar](https://robobazar.vercel.app/)
 
 Full-stack e-commerce platform with secure authentication, role-based access control, and scalable order processing.
 
