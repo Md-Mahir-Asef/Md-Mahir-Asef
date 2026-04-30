@@ -60,7 +60,7 @@ Repository:
 [https://github.com/Md-Mahir-Asef/robobazar](https://github.com/Md-Mahir-Asef/robobazar)
 
 Live Demo:
-[https://robobazar.netlify.app/](https://robobazar.netlify.app/)
+[https://robobazar.vercel.app/](https://robobazar.vercel.app/)
 
 ---
 
