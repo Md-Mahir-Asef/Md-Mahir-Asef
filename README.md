@@ -14,7 +14,7 @@ TypeScript • JavaScript
 
 ### Frontend
 
-React • Next.js • React Router DOM • Vite • Tailwind CSS • REST API Integration
+React • Next.js • Responsive UI Design • Mobile First Development • React Router DOM • Vite • Tailwind CSS • REST API Integration
 
 ### Backend
 
