@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Mahir Asef
 
-**Junior Full-Stack Engineer** focused on building reliable web applications using **TypeScript, React, Node.js, and PostgreSQL**.
+**TypeScript Full-Stack Developer** focused on building reliable web applications using **TypeScript, React, Node.js, Docker, Prisma ORM and PostgreSQL**.
 
 I design and ship full-stack systems with clean architecture, secure APIs, and performant databases. My work focuses on **production-ready backend services paired with modern frontend interfaces.**
 
@@ -10,7 +10,7 @@ I design and ship full-stack systems with clean architecture, secure APIs, and p
 
 ### Languages
 
-TypeScript • JavaScript • Python
+TypeScript • JavaScript
 
 ### Frontend
 
@@ -22,19 +22,11 @@ Node.js • Express • REST API Design • Authentication (JWT) • Role-Based 
 
 ### Databases
 
-PostgreSQL • MySQL • MongoDB • Prisma ORM • Supabase • Relational Data Modeling • Query Optimization • Indexing
+SQL • PostgreSQL • Prisma ORM • Supabase
 
 ### Dev Tools
 
-Git • GitHub • Docker • Docker Compose • Postman • VS Code • WSL (Ubuntu)
-
-### Engineering Fundamentals
-
-HTTP • MVC Architecture • API Security • Logging • Environment Configuration
-
-### Testing
-
-Unit Testing
+Git • GitHub • Docker • Docker Compose • Postman • WSL (Ubuntu)
 
 ### Deployment
 
